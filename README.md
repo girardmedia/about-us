@@ -8,19 +8,19 @@ Contact us today for more information. 888-646-3523
 
 Our Partnerships:
 
-Google Cloud
-Amazon AWS
-GitLab
-Square
-Wix
+Google Cloud<br>
+Amazon AWS<br>
+GitLab<br>
+Square<br>
+Wix<br>
 
 Our Favorite Frameworks:
 
-Wordpress
-Woocommerce
-React
-Node
-Firebase
+Wordpress<br>
+Woocommerce<br>
+React<br>
+Node<br>
+Firebase<br>
 
 
 
