@@ -13,16 +13,16 @@ Our Partnerships:
 <li>GitLab<br>
 <li>Square<br>
 <li>Wix<br>
- </ul>
+</ul>
 
 Our Favorite Frameworks:
-
-Wordpress<br>
-Woocommerce<br>
-React<br>
-Node<br>
-Firebase<br>
-
+<ul>
+<li>Wordpress<br>
+<li>Woocommerce<br>
+<li>React<br>
+<li>Node<br>
+<li>Firebase<br>
+</ul>
 
 
 
