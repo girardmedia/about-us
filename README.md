@@ -7,12 +7,13 @@ https://girardmedia.com
 Contact us today for more information. 888-646-3523
 
 Our Partnerships:
-
-Google Cloud<br>
-Amazon AWS<br>
-GitLab<br>
-Square<br>
-Wix<br>
+<ul>
+<li>Google Cloud<br>
+<li>Amazon AWS<br>
+<li>GitLab<br>
+<li>Square<br>
+<li>Wix<br>
+ </ul>
 
 Our Favorite Frameworks:
 
