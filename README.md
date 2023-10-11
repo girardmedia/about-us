@@ -24,6 +24,7 @@ Our Favorite Frameworks:
 <li>React<br>
 <li>Node<br>
 <li>Firebase<br>
+</ul>
 
 Wordpress Experts:
 <li>Wordpress<br>
