@@ -17,11 +17,18 @@ Our Partnerships:
 
 Our Favorite Frameworks:
 <ul>
-<li>Wordpress<br>
-<li>Woocommerce<br>
+<li>Next JS<br>
+<li>Hasura<br>
+<li>Postgres<br>
+<li>Mongo DB<br>
 <li>React<br>
 <li>Node<br>
 <li>Firebase<br>
+
+Wordpress Experts:
+<li>Wordpress<br>
+<li>Woocommerce<br>
+<li>Custom Plugins<br>
 </ul>
 
 
