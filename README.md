@@ -1,4 +1,4 @@
-🚀 Girard Media
+<h1>🚀 Girard Media</h1>
 <p>Welcome to Girard Media, where dreams turn into digital realities. As a premier web development company, we don't just code websites, but engineer success stories. Our proven expertise ensures that your next idea not only takes off but scales to new heights.</p>
         <a href="https://girardmedia.com" target="_blank">Discover Our Portfolio</a>
 
